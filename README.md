@@ -2,6 +2,8 @@
 
 ## Descripción del Proyecto
 
+Autor: Facundo Cristaldo | Instituto Politécnico Formosa (IPF)
+
 Este proyecto consiste en la implementación de una aplicación de 3 capas operando en un entorno de red aislada. El objetivo principal es lograr la separación física de los servicios utilizando máquinas virtuales independientes.
 
 La infraestructura se basa en:
