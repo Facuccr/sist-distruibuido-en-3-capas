@@ -288,5 +288,6 @@ Para administrar los servidores sin interfaz gráfica y acceder a la aplicación
 El despliegue fue completado exitosamente. El backend asegura la integridad de los datos evitando duplicados por DNI, y el sistema en su conjunto valida el modelo de 3 capas operando bajo una arquitectura distribuida y centralizada a través de un ruteo NAT interno.
 
 **Acceso al sistema:** `http://localhost:8080/Sistema/`
+<img width="1275" height="798" alt="{B13D08E7-2C07-480F-BA57-CE2EC371D00A}" src="https://github.com/user-attachments/assets/151863e0-97ab-4e7f-b854-1b8af24544dc" />
 
-> _[ INSERTAR IMAGEN DEL SISTEMA FUNCIONANDO AQUÍ ]_
+<img width="869" height="721" alt="{8B1FEFC4-74B5-4096-A579-1BD72774DF99}" src="https://github.com/user-attachments/assets/74ee3741-e5d7-4710-8f9b-1bf93a354829" />
